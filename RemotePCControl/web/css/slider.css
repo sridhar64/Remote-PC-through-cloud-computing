@@ -1,0 +1,30 @@
+#DOSGC .slider-selection {
+    background: #428041;
+}
+#DOSGC .slider-handle {
+    background: green;
+}
+#DOSGCID{
+    width: 300px;
+}
+
+
+#MONGC .slider-selection {
+    background: #428041;
+}
+#MONGC .slider-handle {
+    background: green;
+}
+#MONGCID{
+    width: 300px;
+}
+
+#CONGC .slider-selection {
+    background: #428041;
+}
+#CONGC .slider-handle {
+    background: green;
+}
+#CONGCID{
+    width: 300px;
+}
